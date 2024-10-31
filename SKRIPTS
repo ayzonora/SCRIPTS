@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ayzonora/PS99/refs/heads/main/PETS%20GO"))()       <------- PETS  GO
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ayzonora/PS99/refs/heads/main/BEST%20ONE"))()      <------- PET SIM 99
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ayzonora/PS99/refs/heads/main/TRY%20THIS%20IF%20OTHER%20DOESNT%20WORK"))()
+^^^^^^^^^^^^^^^^^ PET SIM 99 try this if other doesnt work
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ayzonora/PS99/refs/heads/main/TRY%20THIS%20AGAIN%20FOR%20PS%2099"))() <--- PS 99
